@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=AMIN.SchDoc
+Record=SheetSymbol|SourceDocument=AMIN.SchDoc|Designator=POWER|SchDesignator=POWER|FileName=POWER.SchDoc|SymbolType=Normal|RawFileName=POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=AMIN.SchDoc|Designator=V3s|SchDesignator=V3s|FileName=V3s.SchDoc|SymbolType=Normal|RawFileName=V3s.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
